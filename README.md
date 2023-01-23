@@ -2,7 +2,7 @@ a cost-benefit framework to determine asteroid mining targets using machine lear
 #
 instructions
 
-1. download the following link to your drive: https://drive.google.com/drive/u/2/folders/1p85yNqviRhAnmQr1xKN9p0ulxNMp0TWf.
+1. download the following link to your drive: https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results.
 2. replace 'asteroids.csv' with the drive link in asteroid-mining-pca.py
 #
 procedure-notes
