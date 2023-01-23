@@ -1,10 +1,10 @@
 a cost-benefit framework to determine asteroid mining targets using machine learning principles
 
 # instructions
-download the following link to your drive.
-replace 'asteroids.csv' with the drive link in asteroid-mining-pca.py
+1. download the following link to your drive: https://drive.google.com/drive/u/2/folders/1p85yNqviRhAnmQr1xKN9p0ulxNMp0TWf.
+2. replace 'asteroids.csv' with the drive link in asteroid-mining-pca.py
 
-# procedure
+# procedure-notes
 the program used nasa's jpl small-body database query, selecting near-earth objects and asteroids. the program conducted standard deviation and data cleaning on the raw data by dropping null values. pca was then completed, producing a two-dimensional graph. the program split the most correlated variable into quartiles indicated by color. the program was tested with the first 20 data points of the database, then the first 500 data points, then all 28,461 data points.
 
 # conclusions
